@@ -11,6 +11,8 @@ A simple Snake Game made for Android Phones using Kotlin and Jetpack Compose.
 
 ## 🖼️ Screenshots
 
+<img src="images/SnakeGame_MockUp.png" width="600" />
+
 <img src="images/Screenshot_1.jpg" width="150"/> <img src="images/Screenshot_2.jpg" width="150"/> <img src="images/Screenshot_3.jpg" width="152"/>
 
 
